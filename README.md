@@ -2,6 +2,14 @@ Mina Assaad
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
+**Activity 1**
+
+![Alt text](images/Activity1.png?raw=true "Activity1")
+
+**Activity 2**
+
+![Alt text](images/Activity2.png?raw=true "Activity2")
+
 Flasky
 ======
 
