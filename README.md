@@ -10,6 +10,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ![Alt text](images/Activity2.png?raw=true "Activity2")
 
+**Activity 3**
+
+![Alt text](images/Activity3.png?raw=true "Activity3")
+
 Flasky
 ======
 
