@@ -16,7 +16,15 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 **Activity 4**
 
-![Alt text](images/Activity4.png?raw=true "Activity4")
+![Alt text](images/Activity4_1.png?raw=true "Activity4_1")
+
+![Alt text](images/Activity4_2.png?raw=true "Activity4_2")
+
+![Alt text](images/Activity4_3.png?raw=true "Activity4_3")
+
+![Alt text](images/Activity4_4.png?raw=true "Activity4_4")
+
+
 
 Flasky
 ======
